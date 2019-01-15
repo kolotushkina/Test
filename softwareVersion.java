@@ -1,4 +1,4 @@
-public class Test {
+public class softwareVersion {
 
 	/*
 	 * One of methods to define which version is more later is to split versions
