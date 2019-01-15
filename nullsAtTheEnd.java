@@ -1,5 +1,5 @@
 
-public class Test2 {
+public class nullsAtTheEnd {
 
 	public static void main(String[] args) {
 		int n = 200;
