@@ -12,7 +12,7 @@ public class nullsAtTheEnd {
 	 * decomposition there are more twos than fives, it is necessary to count
 	 * the number of only fives. We can do this with the following method: Date:
 	 * 14/01/2019 
-	 * Author: Safiullin R.
+	 * Author:  Safiullin R.
 	 */
 	private static int nullsAtTheEndOfTheFactorial(int n) {
 
